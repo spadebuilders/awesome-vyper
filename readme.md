@@ -2,7 +2,9 @@
 
 > A curated list of resources for Vyper, the Pythonic smart contract language for the EVM
 
-The main Vyper repo is at [ethereum/vyper](https://github.com/ethereum/vyper). Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper).
+The main Vyper repo is at [ethereum/vyper](https://github.com/ethereum/vyper) and the [Vyper Official Docs are on ReadTheDocs](https://vyper.readthedocs.io/).
+
+Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper).
 
 
 ## Contents
@@ -13,12 +15,13 @@ The main Vyper repo is at [ethereum/vyper](https://github.com/ethereum/vyper). J
 
 ## Documentation
 
-- [Official Documentation on ReadTheDocs](https://vyper.readthedocs.io/)
 - [Additional notes install on MacOS](https://www.codementor.io/mandarvaze/how-to-install-vyper-using-pyenv-and-virtualenv-on-macos-jz2ghksd4)
 - [Understanding Vyper by Blockgeeks](https://blockgeeks.com/guides/understanding-vyper/)
 - [Chainshot Challenge](https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95)
 - [A day with Vyper on Coinmonks](https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a)
 - [ERC721 Vyper Implementation of Non Fungabile Tokens](https://github.com/maurelian/erc721-vyper)
+- [Intro to Vyper Web-based programming by ChainShot](https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/)
+- [DevCon4 Vyper Workshop](https://github.com/jacqueswww/devcon4-workshop)
 
 ## Tools
 
