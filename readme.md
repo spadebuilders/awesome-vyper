@@ -28,6 +28,8 @@ Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper).
 
 - [Vyper Online Compiler](https://vyper.online/)
 - [Pytest ethereum plugin](https://github.com/fubuloubu/pytest-ethereum)
+- [Ethcode](https://marketplace.visualstudio.com/items?itemName=quantanetwork.ethcode)
+- [Etheratom](https://atom.io/packages/etheratom)
 
 ### Syntax / IDE Highlighting
 
