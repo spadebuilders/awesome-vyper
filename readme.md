@@ -23,6 +23,7 @@ Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper).
 - [Intro to Vyper Web-based programming by ChainShot](https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/)
 - [DevCon4 Vyper Workshop](https://github.com/jacqueswww/devcon4-workshop)
 - [Vyper and Solidity cheat sheet](https://reference.auditless.com/cheatsheet)
+- [Vyper.fun: CryptoZombies+Ethernaut for Vyper](https://vyper.fun/)
 
 ## Tools
 
