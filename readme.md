@@ -2,9 +2,9 @@
 
 > A curated list of resources for Vyper, the Pythonic smart contract language for the EVM
 
-The main Vyper repo is at [ethereum/vyper](https://github.com/ethereum/vyper) and the [Vyper Official Docs are on ReadTheDocs](https://vyper.readthedocs.io/).
+The main Vyper repo is at [vyperlang/vyper](https://github.com/vyperlang/vyper) and the [Vyper Official Docs are on ReadTheDocs](https://vyper.readthedocs.io/).
 
-Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper).
+Join the Gitter [ethereum/vyper chat](https://gitter.im/ethereum/vyper) and the [Discord Server](https://discord.com/invite/6tw7PTM7C2).
 
 
 ## Contents
